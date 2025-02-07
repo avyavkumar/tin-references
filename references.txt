@@ -1,0 +1,43 @@
+[1] MiniLLM: Knowledge Distillation of Large Language Models, Gu et al., 2024
+[2] On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes, Agarwal et al., 2024
+[3] LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions, Wu et al., 2024
+[4] GLaM: Efficient Scaling of Language Models with Mixture-of-Experts, Du et al., 2022
+[5] Efficient Large Scale Language Modeling with Mixtures of Experts, Artetxe et al., 2022
+[6] A Closer Look into Mixture-of-Experts in Large Language Models, Lo et al., 2024
+[7] Scaling Laws Across Model Architectures: A Comparative Analysis of Dense and MoE Models in Large Language Models, Wang et al., 2024 
+[8] Direct Preference Optimization: Your Language Model is Secretly a Reward Model, Rafailov et al., 2023
+[9] DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning, Deepseek-AI, 2025
+[10] https://github.com/ollama/ollama   
+[11] https://github.com/ggerganov/llama.cpp 
+[12] https://github.com/avyavkumar/meta-learned-lines/blob/main/training/models/FOMAML.py 
+[13] https://github.com/avyavkumar/meta-learned-lines/blob/main/training/models/MetaFOMAML.py 
+[14] https://github.com/avyavkumar/meta-learned-lines/blob/main/training/models/Reptile.py 
+[15] Denoising Diffusion Probabilistic Models, Ho et al., 2020
+[16] Score-Based Generative Modeling through Stochastic Differential Equations, Song et al., 2021
+[17] Flow Matching for Generative Modeling, Lipman et al., 2023
+[18] Improving and generalizing flow-based generative models with minibatch optimal transport, Tong et al., 2023
+[19] Language Models are Few-Shot Learners, Brown et al., 2020
+[20] The Llama 3 Herd of Models, MetaAI, 2024
+[21] https://www.ltcc.ac.uk/courses/advanced-computational-methods-in-statistics/ 
+[22] https://www.ltcc.ac.uk/courses/measure-theoretic-probability/ 
+[23] https://www.ltcc.ac.uk/ 
+[24] https://docs.ray.io/en/latest/tune/examples/bayesopt_example.html 
+[25] Learning New Tasks from a Few Examples with Soft-Label Prototypes, Singh et al., 2024
+[26] https://unsloth.ai/blog/dynamic-4bit 
+[27] Harmonic Loss Trains Interpretable AI Models, Baek et al., 2025
+[28] https://research.google/blog/model-ensembles-are-faster-than-you-think/ 
+[29] https://research.google/blog/understanding-transformer-reasoning-capabilities-via-graph-algorithms/ 
+[30] https://devm.io/java/java-performance-tutorial-how-fast-are-the-java-8-streams-118830   
+[31] https://gdal.org/en/stable/ 
+[32] https://gdal.org/en/stable/development/rfc/rfc64_triangle_polyhedralsurface_tin.html 
+[33] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models, Shao et al., 2024
+[34] Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models, Xu et al., 2025
+[35] Teaching Large Language Models to Reason with Reinforcement Learning, Havrilla et al., 2024
+[36] Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations, Raissi et al., 2019
+[37] Machine learning and the physical sciences, Carleo et al., 2019
+[38] DynGFN: Towards Bayesian Inference of Gene Regulatory Networks with GFlowNets, Atanackovic et al., 2023
+[39] Gaussian Processes for Machine Learning, Rasmussen and Williams, 2005
+[40] Sample-efficient Multi-objective Molecular Optimization with GFlowNets, Zhu et al., 2023
+[41] https://www.turing.ac.uk/about-us 
+[42] https://www.turing.ac.uk/sites/default/files/2023-03/turing_2.0_-_executive_summary_-_final_21.03.pdf 
+[43] https://time.com/6691705/time100-impact-awards-yann-lecun/ 
