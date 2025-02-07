@@ -36,7 +36,7 @@
 [36] Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations, Raissi et al., 2019
 [37] Machine learning and the physical sciences, Carleo et al., 2019
 [38] DynGFN: Towards Bayesian Inference of Gene Regulatory Networks with GFlowNets, Atanackovic et al., 2023
-[39] Gaussian Processes for Machine Learning, Rasmussen and Williams, 2005
+[39] Highly accurate protein structure prediction with AlphaFold, Google Deepmind, 2021
 [40] Sample-efficient Multi-objective Molecular Optimization with GFlowNets, Zhu et al., 2023
 [41] https://www.turing.ac.uk/about-us 
 [42] https://www.turing.ac.uk/sites/default/files/2023-03/turing_2.0_-_executive_summary_-_final_21.03.pdf 
