@@ -41,3 +41,4 @@
 [41] https://www.turing.ac.uk/about-us 
 [42] https://www.turing.ac.uk/sites/default/files/2023-03/turing_2.0_-_executive_summary_-_final_21.03.pdf 
 [43] https://time.com/6691705/time100-impact-awards-yann-lecun/ 
+[44] https://huggingface.co/blog/deepspeed-to-fsdp-and-back 
