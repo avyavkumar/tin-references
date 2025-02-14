@@ -25,7 +25,7 @@
 [25] Learning New Tasks from a Few Examples with Soft-Label Prototypes, Singh et al., 2024
 [26] https://unsloth.ai/blog/dynamic-4bit 
 [27] Harmonic Loss Trains Interpretable AI Models, Baek et al., 2025
-[28] https://research.google/blog/model-ensembles-are-faster-than-you-think/ 
+[28] https://pytorch.org/blog/hi-po-low-bit-operators/ 
 [29] https://research.google/blog/understanding-transformer-reasoning-capabilities-via-graph-algorithms/ 
 [30] https://devm.io/java/java-performance-tutorial-how-fast-are-the-java-8-streams-118830   
 [31] https://gdal.org/en/stable/ 
@@ -42,3 +42,4 @@
 [42] https://www.turing.ac.uk/sites/default/files/2023-03/turing_2.0_-_executive_summary_-_final_21.03.pdf 
 [43] https://time.com/6691705/time100-impact-awards-yann-lecun/ 
 [44] https://huggingface.co/blog/deepspeed-to-fsdp-and-back 
+[45] https://unsloth.ai/blog/r1-reasoning 
